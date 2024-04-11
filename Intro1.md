@@ -19,6 +19,21 @@ IN the above photo, once for a electronic health record. First if we have only o
 <img width="1080" alt="image" src="https://github.com/srisubhashp/DataEngrNotes/assets/55814483/157df2fa-da5b-4190-b5ea-8b359100cd15">
 <img width="1080" alt="image" src="https://github.com/srisubhashp/DataEngrNotes/assets/55814483/5dfd498f-442a-456f-bf4f-ebfdab70048f">
 - Department of Defense and even in health records we can use it to identify records that are vulnerable. 
+<img width="1080" alt="image" src="https://github.com/srisubhashp/DataEngrNotes/assets/55814483/092f35b7-fe5f-4529-9b22-018047136e9a">
+<img width="1080" alt="image" src="https://github.com/srisubhashp/DataEngrNotes/assets/55814483/9511967f-d6fd-49cc-8ef8-8dfdf347f28c">
+<img width="1080" alt="image" src="https://github.com/srisubhashp/DataEngrNotes/assets/55814483/d70b00cb-9a8c-4ed3-a0b7-f37e10c86f28">
+<img width="1080" alt="image" src="https://github.com/srisubhashp/DataEngrNotes/assets/55814483/12bf0eba-61d7-480c-b8de-630a7d3234de">
+- in the first story, the company could not handle more data incoming due to insufficient resources. We need to mature our data warehouse from batch to a real time solution. 
+<img width="1080" alt="image" src="https://github.com/srisubhashp/DataEngrNotes/assets/55814483/fe9560f4-5a4c-464c-bd1b-8a0c3ed2cb6b">
+- The second company was able to eliminate a landing zone and staging area. <br>
+------
+
+
+
+
+
+
+
 
 
 
