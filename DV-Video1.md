@@ -26,7 +26,8 @@ IN the above photo, once for a electronic health record. First if we have only o
 - in the first story, the company could not handle more data incoming due to insufficient resources. We need to mature our data warehouse from batch to a real time solution. 
 <img width="1080" alt="image" src="https://github.com/srisubhashp/DataEngrNotes/assets/55814483/fe9560f4-5a4c-464c-bd1b-8a0c3ed2cb6b">
 - The second company was able to eliminate a landing zone and staging area. <br>
-------
+
+## Challenges ##
 
 
 
