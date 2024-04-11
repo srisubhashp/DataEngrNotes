@@ -15,6 +15,13 @@ IN the above photo, once for a electronic health record. First if we have only o
 - Thought process behind creation of data vault. <br>
 <img width="1080" alt="image" src="https://github.com/srisubhashp/DataEngrNotes/assets/55814483/866f09fb-8b86-4903-9228-01b8968683db">
 <img width="1080" alt="image" src="https://github.com/srisubhashp/DataEngrNotes/assets/55814483/a4bfe871-fcc9-4eaf-98d5-5024faf1059e">
+<img width="1080" alt="image" src="https://github.com/srisubhashp/DataEngrNotes/assets/55814483/61bb6071-57b0-4217-a428-57ad9d57726b">
+<img width="1080" alt="image" src="https://github.com/srisubhashp/DataEngrNotes/assets/55814483/157df2fa-da5b-4190-b5ea-8b359100cd15">
+<img width="1080" alt="image" src="https://github.com/srisubhashp/DataEngrNotes/assets/55814483/5dfd498f-442a-456f-bf4f-ebfdab70048f">
+- Department of Defense and even in health records we can use it to identify records that are vulnerable. 
+
+
+
 
 
 
